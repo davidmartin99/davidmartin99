@@ -22,9 +22,8 @@ Welcome to my GitHub profile! I am a highly-motivated software developer passion
 ## 📂 Projects
 Here are some of the projects I’ve been working on:
 
-- **[Flight Reservation App](link_to_your_project)**: An application for booking flights with a user-friendly interface.
-- **[Music Library](link_to_your_project)**: A Java-based program to manage a music library, allowing users to add, search, and display songs.
-- **[Lemon Tree App](link_to_your_project)**: An Android application that showcases a lemon tree with interactive features.
+- **[Music Library](https://github.com/davidmartin99/IntelliJ_AccesoDatos/blob/master/src/Ficheros_Aleatorios/BuscarCancion.java)**: A Java-based program to manage a music library, allowing users to add, search, and display songs.
+- **[Lemon Tree App](https://github.com/davidmartin99/MiLimonero)**: An Android application that showcases a lemon tree with interactive features.
 
 ## 📝 Skills & Experience
 - **Interoperability Management:** Expertise in managing interoperability between relational (MySQL) and non-relational (MongoDB) databases.
