@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I am a highly-motivated software developer passion
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Java, Kotlin, JavaScript, HTML, CSS, XML
-- **Frameworks:** Android SDK, Spring Boot
+- **Frameworks:** Android SDK
 - **Databases:** MySQL, MongoDB, SQLite
 - **Tools:** IntelliJ IDEA, Oracle VirtualBox, Git, GitHub
-- **Others:** XML, JSON, RESTful APIs
+- **Others:** XML, RESTful APIs
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmartin99&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
